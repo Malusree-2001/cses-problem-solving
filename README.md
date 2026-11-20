@@ -64,16 +64,6 @@ I prioritize understanding over memorizing solutions.
 
 Some problems may take longer than others. The focus is on consistent improvement rather than rushing through the problem set.
 
-## Learning Log
-
-| Day | Problems | Status |
-|---|---|---|
-| 01 | Weird Algorithm, Missing Number | Not Started |
-| 02 | Repetitions, Increasing Array | Not Started |
-| 03 | Bit Strings, Permutations | Not Started |
-| 04 | Trailing Zeros, Coin Piles | Not Started |
-| 05 | Two Sets, Number Spiral | Not Started |
-
 ## Resources
 
 - [CSES Problem Set](https://cses.fi/problemset/)
