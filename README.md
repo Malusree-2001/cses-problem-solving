@@ -17,7 +17,7 @@ The goal is simple: **solve problems consistently, understand the logic behind e
 
 | Category | Solved | Total |
 |---|---:|---:|
-| Introductory Problems | 0 | 24 |
+| Introductory Problems | 1 | 24 |
 | Sorting and Searching | 0 | — |
 | Dynamic Programming | 0 | — |
 | Graph Algorithms | 0 | — |
