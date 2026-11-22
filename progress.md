@@ -11,13 +11,13 @@ My progress through the [CSES Problem Set](https://cses.fi/problemset/), rebuild
 
 | Metric | Progress |
 |---|---|
-| Total accepted | 1 / 400 |
-| Introductory Problems | 1 / 24 |
+| Total accepted | 2 / 400 |
+| Introductory Problems | 2 / 24 |
 | Solved without hints | 0 |
-| Solved with hints | 1 |
-| Study days completed | 1 |
-| Current daily streak | 1 |
-| Longest daily streak | 1 |
+| Solved with hints | 4 |
+| Study days completed | 2 |
+| Current daily streak | 2 |
+| Longest daily streak | 2 |
 
 _Update these numbers manually when you update the checkboxes. A GitHub contribution streak is not the same as a problem-solving streak._
 
@@ -26,6 +26,7 @@ _Update these numbers manually when you update the checkboxes. A GitHub contribu
 | Date | Problems attempted | Accepted | Language | Hints used | Key lesson |
 |---|---|---|---|---|---|
 | 2026-11-20 | 1 | 1 | c++ | 4 | always start with tracing the code with bodyruns |
+| 2026-11-21 | 1 | 1 | c++ | 4 | brute force will help you in further optimise |
 
 ## Weekly reflection
 
@@ -45,7 +46,7 @@ _Update these numbers manually when you update the checkboxes. A GitHub contribu
 ### Introductory Problems (24)
 
 - [x] Weird Algorithm
-- [ ] Missing Number
+- [x] Missing Number
 - [ ] Repetitions
 - [ ] Increasing Array
 - [ ] Permutations
