@@ -1,0 +1,58 @@
+@'
+# C++ compilation artifacts
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.out
+*.dll
+*.lib
+*.exp
+*.a
+*.so
+*.dylib
+
+# Build directories
+build/
+Debug/
+Release/
+cmake-build-*/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vs/
+.idea/
+*.suo
+*.user
+
+# Archives
+*.zip
+*.rar
+*.7z
+'@ | Set-Content -Path .gitignore -Encoding ascii
