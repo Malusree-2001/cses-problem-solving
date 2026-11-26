@@ -55,4 +55,3 @@ Desktop.ini
 *.zip
 *.rar
 *.7z
-'@ | Set-Content -Path .gitignore -Encoding ascii
