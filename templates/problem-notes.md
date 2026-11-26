@@ -59,4 +59,4 @@ Summarize the insight in one or two sentences.
 
 ## Revision
 
-See [Revision Tracker](../../REVISION_TRACKER.md) when this template is copied into an individual introductory problem folder.
+See [Revision Tracker](REVISION_TRACKER.md) when this template is copied into an individual introductory problem folder.
