@@ -27,6 +27,7 @@ _Update these numbers manually when you update the checkboxes. A GitHub contribu
 |---|---|---|---|---|---|
 | 2026-11-20 | 1 | 1 | c++ | 4 | always start with tracing the code with bodyruns |
 | 2026-11-21 | 1 | 1 | c++ | 4 | brute force will help you in further optimise |
+| 2026-11-27 | 1 | 1 | c++ | 4 | always check count if value already assigned for s[0] because we can miss that count if didnt assign count = 1|
 
 ## Weekly reflection
 
@@ -47,7 +48,7 @@ _Update these numbers manually when you update the checkboxes. A GitHub contribu
 
 - [x] Weird Algorithm
 - [x] Missing Number
-- [ ] Repetitions
+- [x] Repetitions
 - [ ] Increasing Array
 - [ ] Permutations
 - [ ] Number Spiral
