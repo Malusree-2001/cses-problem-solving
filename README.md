@@ -18,7 +18,7 @@ The goal is simple: **solve problems consistently, understand the logic behind e
 
 | Category | Solved | Total |
 |---|---:|---:|
-| Introductory Problems | 2 | 24 |
+| Introductory Problems | 3 | 24 |
 | Sorting and Searching | 0 | 35 |
 | Dynamic Programming | 0 | 23 |
 | Graph Algorithms | 0 | 36 |
@@ -38,7 +38,7 @@ The goal is simple: **solve problems consistently, understand the logic behind e
 | Additional Problems II | 0 | 30 |
 | **Total** | **2** | **400** |
 
-**Overall Progress:** 2 / 400 (0.5%)
+**Overall Progress:** 3 / 400 (0.75%)
 
 📌 **Detailed Progress:** [View CSES Progress Tracker](progress.md)
 
